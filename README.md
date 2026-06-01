@@ -54,5 +54,5 @@ Mesma plataforma de gestão hospitalar implementada em Java (client-server) e Dj
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/ruben-filipe-a77327270)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([www.linkedin.com/in/ruben-filipe-a77327270](https://www.linkedin.com/in/r%C3%BAben-filipe-a77327270/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rubengananca@gmail.com)
